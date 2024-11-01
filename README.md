@@ -6,7 +6,7 @@ Business Analyst & IT Application Specialist & Data Science
 
 I'm Samet, you can call me Sam for short. I am graduated a student in Industrial Engineering. 
 I working full time as a IT Application Specialist at Bank of China. Also I worked full time as a business analyst at Intertech ( 1 year ). 
-I have 2+ work experience IT professinoal industry.
+I have 2+ work experience IT professional industry.
 I take part in artificial intelligence studies.
 
 * 🌍  I'm based in Türkiye
