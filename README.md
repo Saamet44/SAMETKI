@@ -1,15 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SAMET KILIC
 ===================================================================================================================================
 
-Business Analyst & Data Science
--------------------------------
+Business Analyst & IT Application Specialist & Data Science
+-----------------------------------------------------------
 
-I'm Samet, you can call me Sam for short. I am a 4th year student in industrial engineering. I work full time as a business analyst at Intertech. Additionally, I take part in artificial intelligence studies.
+I'm Samet, you can call me Sam for short. I am graduated a student in Industrial Engineering. 
+I working full time as a IT Application Specialist at Bank of China. Also I worked full time as a business analyst at Intertech ( 1 year ). 
+I have 2+ work experience IT professinoal industry.
+I take part in artificial intelligence studies.
 
 * 🌍  I'm based in Türkiye
 * ✉️  You can contact me at [sametkkilic@outlook.com](mailto:sametkkilic@outlook.com)
-* 🤝  I'm open to collaborating on Sciencetific & Innovation Data Science
-* ⚡  I'm secretly Future Agriculture & Healthtech
+* 🤝  I'm open to collaborating on Sciencetific & Innovation Data Science & Information Technology
+* ⚡  I'm secretly Future Agriculture & Healthtech & Banking as a Service & Document Managment System 
 
 ### Skills
 
